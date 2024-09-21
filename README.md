@@ -24,8 +24,26 @@
   <img align="center" alt="img" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img align="center" alt="img" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
   <img align="center" alt="img" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+   <img align="center" alt="img" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img align="center" alt="img" src="https://aleen42.github.io/badges/src/stackoverflow.svg"/>
 <br/>
 </div>
 
 ### Gráfico
 ![InfoTechGold GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=InfoTechGold&theme=blue-green)
+
+
+### Desenvolvimento de Games Indie
+
+<div style="display: inline_block"><br/>
+  <img style="width:70px" align="center" alt="img" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256724/file-type-light-gamemaker-icon-md.png"/>
+  <img style="width:70px" align="center" alt="img" src="https://cdn-1.webcatalog.io/catalog/piskel/piskel-icon.png"/>
+  <img style="width:70px" align="center" alt="img" src="https://raw.githubusercontent.com/dominickjohn/aseprite-big-sur-icon/main/AsepriteSurIcon.png"/>
+  <img align="center" alt="img" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+
+<br/>
+</div>
+
+### Meu Link Dos Jogos 
+[![Itchio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
+)](https://nilton-infotechgold.itch.io/)
