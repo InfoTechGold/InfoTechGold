@@ -48,3 +48,22 @@
 ### Meu Link Dos Jogos 
 [![Itchio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
 )](https://nilton-infotechgold.itch.io/)
+
+
+### Desenvolvimento Tarefas A Serem Concluidas
+
+![InfoTechGold GitHub stats](https://img.shields.io/github/issues-pr/InfoTechGold/InfoTechGold.svg)
+![InfoTechGold GitHub stats](https://img.shields.io/github/issues-pr-closed/InfoTechGold/InfoTechGold.svg
+)
+![InfoTechGold GitHub stats](https://img.shields.io/github/issues/InfoTechGold/InfoTechGold.svg
+)
+
+
+### Eventos
+
+![InfoTechGold GitHub stats](https://img.shields.io/github/followers/InfoTechGold.svg?style=social&label=Follow&maxAge=2592000****)
+![InfoTechGold GitHub stats](https://img.shields.io/github/downloads/InfoTechGold/InfoTechGold/total.svg
+)
+
+
+
