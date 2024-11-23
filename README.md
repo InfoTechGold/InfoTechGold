@@ -40,7 +40,7 @@
   <img style="width:70px" align="center" alt="img" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256724/file-type-light-gamemaker-icon-md.png"/>
   <img style="width:70px" align="center" alt="img" src="https://cdn-1.webcatalog.io/catalog/piskel/piskel-icon.png"/>
   <img style="width:70px" align="center" alt="img" src="https://raw.githubusercontent.com/dominickjohn/aseprite-big-sur-icon/main/AsepriteSurIcon.png"/>
-   <img style="width:70px" align="center" alt="img" src="https://static-00.iconduck.com/assets.00/gdevelop-icon-2048x1640-7y5aemvt.png"/>
+  <img style="width:70px" align="center" alt="img" src="https://static-00.iconduck.com/assets.00/gdevelop-icon-2048x1640-7y5aemvt.png"/>
   <img align="center" alt="img" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
 
 <br/>
