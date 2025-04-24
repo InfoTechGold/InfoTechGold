@@ -1,4 +1,5 @@
 ## Olá, A Empresa InfoTechGold lhe deseja boas vindas 👋
+## Desenvolvedor Nilton Sousa (CEO)
 ### Sigam Nossas Redes Sociais
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 )](https://www.youtube.com/@NiltonInfoTechGold)
