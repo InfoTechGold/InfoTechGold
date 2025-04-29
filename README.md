@@ -66,6 +66,6 @@
 ![InfoTechGold GitHub stats](https://img.shields.io/github/followers/InfoTechGold.svg?style=social&label=Follow&maxAge=2592000****)
 ![InfoTechGold GitHub stats](https://img.shields.io/github/downloads/InfoTechGold/InfoTechGold/total.svg
 )
-
+<img style="width:70px" align="center" alt="img" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256724/file-type-light-gamemaker-icon-md.png"/>
 
 
