@@ -151,7 +151,9 @@ Utilização de ferramentas de IA para potencializar criatividade, desenvolvimen
 
 ### DESIGN
 
-<img src="https://skillicons.dev/icons?i=canva,inkscape">
+<img src="https://img.icons8.com/?size=55&id=iWw83PVcBpLw&format=png&color=000000">
+<img src="https://img.icons8.com/?size=55&id=3mFB94JAAccB&format=png&color=000000"/>
+
 
 <br><br>
 
@@ -337,7 +339,7 @@ class InfoTechGold
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoTechGold&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF">
 
 </div>
 
