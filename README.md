@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/infotech-gold-banner.png" width="100%" alt="InfoTech GOLD — Technology Design Innovation">
+<img src="infotech.png" width="100%" alt="InfoTech GOLD — Technology Design Innovation">
 
 <br><br>
 
